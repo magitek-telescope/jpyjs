@@ -21,9 +21,7 @@
   },
   "homepage": "https://github.com/potato4d/jpyjs#readme",
   "devDependencies": {
+    "flow-bin": "^0.57.3",
     "ava": "^0.23.0"
-  },
-  "dependencies": {
-    "flow-bin": "^0.57.3"
   }
 }
