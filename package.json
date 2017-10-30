@@ -1,0 +1,29 @@
+{
+  "name": "@potato4d/jpy",
+  "version": "0.0.1",
+  "description": "3 digits comma converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potato4d/jpyjs.git"
+  },
+  "keywords": [
+    "jpy",
+    "currency"
+  ],
+  "author": "potato4d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/potato4d/jpyjs/issues"
+  },
+  "homepage": "https://github.com/potato4d/jpyjs#readme",
+  "devDependencies": {
+    "ava": "^0.23.0"
+  },
+  "dependencies": {
+    "flow-bin": "^0.57.3"
+  }
+}
